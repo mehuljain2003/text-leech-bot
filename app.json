@@ -11,19 +11,19 @@
     "success_url": "https://t.me/AshutoshGoswami24",
     "stack": "heroku-22",
     "env": {
-        "API_ID": {
+        "API_ID": {22940312
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {82fb5cd2de25e4c01021b8bbae9909bb
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7668001422:AAGY5XCqvPPDU1Gfe5WrXSZXXYOBBWxAEAA
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
-        "PORT": {
+        "PORT": {8080
             "description": "𝘌𝘕𝘛𝘌𝘙 𝘈𝘕𝘠 𝘗𝘖𝘙𝘛 𝘓𝘐𝘒𝘌 8080",
             "required": true
         }
